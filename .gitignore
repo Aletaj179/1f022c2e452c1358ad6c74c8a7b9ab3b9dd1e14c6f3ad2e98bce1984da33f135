@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Aletaj179/1f022c2e452c1358ad6c74c8a7b9ab3b9dd1e14c6f3ad2e98bce1984da33f135.git
+git branch -M main
+git push -u origin main
